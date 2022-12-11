@@ -1,4 +1,4 @@
-
+waitress== 2.1.2
 beautifulsoup4==4.11.1
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.1/en_core_web_md-3.4.1-py3-none-any.whl
 en-ner-bc5cdr-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_ner_bc5cdr_md-0.5.1.tar.gz
@@ -21,5 +21,4 @@ spacy==3.4.3
 spacy-legacy==3.0.10
 spacy-loggers==1.0.3
 tqdm==4.64.1
-wordcloud==1.8.2.2
 
