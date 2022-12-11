@@ -6,7 +6,6 @@ en-ner-bionlp13cg-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releas
 Flask==2.2.2
 Flask-Ext==0.1
 Flask-Markdown==0.3
-Flask-SQLAlchemy==3.0.2
 gunicorn==20.1.0
 joblib==1.2.0
 numpy==1.21.6
